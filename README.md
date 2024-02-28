@@ -23,7 +23,7 @@ Before running the script, ensure you have the following:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <https://github.com/rxzwxn/nft-ownership>
+git clone https://github.com/rxzwxn/nft-ownership
 cd nft-ownership
 ```
 
